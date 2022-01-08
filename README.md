@@ -1,2 +1,1 @@
-# odin_calculator
-5th Odin Project project. A calculator webpage w/ JS.
+5th project in the Odin Project. Creating a calculator webpage with HTML, CSS, and Javascript.
