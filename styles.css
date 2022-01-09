@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center; /* Kindof a hack but it's fine */
+}
+
+#calculator-container {
+    border: 10px solid black;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 309px; /* Rounded /phi of 500 */
+}
+
+.row {
+    display: flex;
+    flex: auto; /* We'll see how this works */
+}
+
+.calculator-button {
+    width: 77.25px; /* /4 of 500/phi */
+}
