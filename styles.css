@@ -19,3 +19,11 @@ body {
 .calculator-button {
     width: 77.25px; /* /4 of 500/phi */
 }
+
+#evaluate-button {
+    width: 77.25px;
+}
+
+#clear-button {
+    width: 77.25px;
+}
