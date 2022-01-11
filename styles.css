@@ -25,5 +25,9 @@ body {
 }
 
 #clear-button {
-    width: 77.25px;
+    width: 154.5px;
+}
+
+#delete-button {
+    width: 154.5px;
 }
